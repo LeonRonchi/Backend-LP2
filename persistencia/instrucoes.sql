@@ -1,5 +1,5 @@
-CREATE DATABASE sistema;
-USE sistema;
+CREATE DATABASE meubancobackend;
+USE meubancobackend;
 CREATE TABLE categoria(
     cat_codigo INT NOT NULL AUTO_INCREMENT,
     cat_descricao VARCHAR(100) NOT NULL,
